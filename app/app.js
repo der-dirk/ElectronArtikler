@@ -18,6 +18,9 @@ function appendMatchesToCandidates(expressions)
 (function()
 {  
   var app = angular.module('artikler', []);
+  
+  var expressionLength = 0;
+  var expressionIndex = 0;
 
   app.controller('ExpressionController', function($scope, $http)
   {  
@@ -27,16 +30,17 @@ function appendMatchesToCandidates(expressions)
     {  
       $scope.expressions = data;
       appendMatchesToCandidates($scope.expressions); 
+      expressionLength = $scope.expressions.length;
+      if (expressionLength > 0)
+        $scope.expressionO = $scope.expressions[0];
     });
 
-    $scope.clickMe = function(buttonData)
+    $scope.clickWord = function(buttonData)
     {  
-      if (buttonData[0].indexOf(buttonData[1]) == -1)
-        $scope.ok = false;
-      else
-        $scope.ok = true;
+      expressionIndex = ++expressionIndex % expressionLength;          
+      $scope.expressionO = $scope.expressions[expressionIndex];
+      $scope.ok = buttonData[0].indexOf(buttonData[1]) != -1;
     };
-
     
   }); // app.controller('ExpressionController', function
 

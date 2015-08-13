@@ -6,14 +6,14 @@
     <script type="text/javascript" src="app.js"></script>
   </head>
   <body class="container" ng-controller="ExpressionController">
-    <div class="product row" ng-repeat="expressionset in expressions">
+    <div class="product row">
       <h3>
-        {{expressionset.expression}}
+        {{expressionO.expression}}
       </h3>
       <table>
         <tr>
-          <td ng-repeat="candidate in expressionset.candidates">
-            <button ng-click="clickMe([expressionset.matches, candidate])">{{candidate}}</button>
+          <td ng-repeat="candidate in expressionO.candidates">
+            <button ng-click="clickWord([expressionO.matches, candidate])">{{candidate}}</button>
           </td>
         </tr>
       </table>
