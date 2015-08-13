@@ -1,0 +1,8 @@
+# Visual Studio Code Settings
+.settings
+
+# Mac Stuff
+.DS_Store
+
+# Backup Files
+*~
