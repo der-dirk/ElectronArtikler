@@ -1,12 +1,12 @@
 [
  {
-  "expression": "Ich gehe ___ Wald",
+  "expression": "Ich gehe % Wald",
   "matches": ["in den", "um den"],
   "candidates": ["auf den", "unter dem"]
  },
  {
-  "expression": "das tut ___ gut",
+  "expression": "das tut % gut",
   "matches": ["mir"],
-  "candidates": ["mich", "für mich"]
+  "candidates": ["mich", "fÃ¼r mich"]
  }
 ]

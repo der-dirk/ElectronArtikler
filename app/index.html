@@ -1,24 +1,29 @@
 <!DOCTYPE html>
 <html ng-app="artikler">
   <head>
+    <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
     <script type="text/javascript" src="angularjs/angular.min.js"></script>
     <script type="text/javascript" src="app.js"></script>
   </head>
   <body class="container" ng-controller="ExpressionController">
-    <div class="product row">
+    <div class="row">
       <h3>
-        {{expressionO.expression}}
+        {{gapExpression}}
       </h3>
-      <table>
-        <tr>
-          <td ng-repeat="candidate in expressionO.candidates">
-            <button ng-click="clickWord([expressionO.matches, candidate])">{{candidate}}</button>
-          </td>
-        </tr>
-      </table>
+            <button class="btn btn-default"
+              ng-repeat="candidate in expressionEntry.candidates"
+              ng-click="clickWord([expressionEntry.matches, candidate])">
+              {{candidate}}
+            </button>
     </div>
-    <h2 ng-show="ok">Richtig</h2>
-    <h2 ng-hide="ok">Falsch</h2>
+    <h2 ng-show="ok">Richtig:
+      <span>{{correctExpression[0]}}</span>
+      <span class="text-success">{{correctExpressionGap}}</span>
+      <span>{{correctExpression[1]}}</span></h2>
+    <h2 ng-hide="ok || !hasResult">Falsch:
+      <span>{{correctExpression[0]}}</span>
+      <span class="text-danger">{{correctExpressionGap}}</span>
+      <span>{{correctExpression[1]}}</span></h2>
   </body>
 </html>

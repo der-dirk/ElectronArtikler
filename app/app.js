@@ -1,19 +1,16 @@
-function appendMatchesToCandidates(expressions)
+function appendMatchesToCandidates(/*array by ref*/ expressionEntries)
 {
-  for (var key1 in expressions)
-  {
-    if (expressions.hasOwnProperty(key1))
-    {
-      for (var key2 in expressions[key1].matches)
-      {
-        if (expressions[key1].matches.hasOwnProperty(key2))
-        {
-          expressions[key1].candidates.push(expressions[key1].matches[key2]);
-        }
-      }
-    }
-  } 
+  for (var key1 in expressionEntries)
+    for (var key2 in expressionEntries[key1].matches)
+      expressionEntries[key1].candidates.push(expressionEntries[key1].matches[key2]); 
 }
+
+function shuffleArray(/*array by ref*/ a)
+{
+  for(var j, x, i = a.length; i; j = Math.floor(Math.random() * i), x = a[--i], a[i] = a[j], a[j] = x);
+}
+
+
 
 (function()
 {  
@@ -28,21 +25,32 @@ function appendMatchesToCandidates(expressions)
     var localFile  = 'data/expressions.json'; 
     $http.get(localFile).success(function(data)
     {  
-      $scope.expressions = data;
-      appendMatchesToCandidates($scope.expressions); 
-      expressionLength = $scope.expressions.length;
+      $scope.expressionEntries = data;
+      appendMatchesToCandidates($scope.expressionEntries);
+      expressionLength = $scope.expressionEntries.length;
       if (expressionLength > 0)
-        $scope.expressionO = $scope.expressions[0];
+      {
+        $scope.expressionEntry = $scope.expressionEntries[0];
+        shuffleArray($scope.expressionEntry.candidates);
+        $scope.gapExpression = $scope.expressionEntry.expression.replace("%", "___");
+      }
     });
 
     $scope.clickWord = function(buttonData)
     {  
-      expressionIndex = ++expressionIndex % expressionLength;          
-      $scope.expressionO = $scope.expressions[expressionIndex];
+      // Last expression
+      $scope.hasResult = true;
       $scope.ok = buttonData[0].indexOf(buttonData[1]) != -1;
+      $scope.correctExpression = $scope.expressionEntry.expression.split("%");
+      $scope.correctExpressionGap = buttonData[1];
+      
+      // Next expression
+      expressionIndex = ++expressionIndex % expressionLength;          
+      $scope.expressionEntry = $scope.expressionEntries[expressionIndex];
+      shuffleArray($scope.expressionEntry.candidates);
+      $scope.gapExpression = $scope.expressionEntry.expression.replace("%", "___");
     };
     
   }); // app.controller('ExpressionController', function
 
 })();
-
