@@ -6,3 +6,6 @@
 
 # Backup Files
 *~
+
+# Node modules
+node_modules

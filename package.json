@@ -1,5 +1,9 @@
 {
-  "name"    : "ElectronArtikler",
-  "version" : "0.1.0",
-  "main"    : "main.js"
+  "name": "ElectronArtikler",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "angular": "^1.4.4",
+    "electron-prebuilt": "^0.30.4"
+  }
 }

@@ -1,3 +1,5 @@
+require("angular");
+
 function appendMatchesToCandidates(/*array by ref*/ expressionEntries)
 {
   for (var key1 in expressionEntries)
