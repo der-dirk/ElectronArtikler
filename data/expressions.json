@@ -2,1356 +2,1356 @@
 {
   "expression": "% Prozent",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Mark",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Jahr",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Uhr",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Millionen",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Deutschland",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Ende",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Zeit",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Stadt",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Berlin",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Unternehmen",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% SPD",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Frau",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Mann",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Leben",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Milliarden",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Welt",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Regierung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Land",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% USA",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Frage",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Teil",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Polizei",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Geld",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% München",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Arbeit",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Fall",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Berliner",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Weg",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% CDU",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Woche",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Geschichte",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Tag",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Art",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Man",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Dollar",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Entwicklung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Präsident",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Bonn",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Platz",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Freitag",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Montag",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Europa",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Sonntag",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Zahl",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Partei",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Thema",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Politik",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Januar",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Anfang",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Mitarbeiter",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Ziel",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Seite",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Haus",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Frankfurt",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Gesellschaft",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Mittwoch",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Dienstag",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Hilfe",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Mai",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Markt",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Donnerstag",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Entscheidung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Ergebnis",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Samstag",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% System",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% März",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Erfolg",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Grund",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Zukunft",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Stuttgart",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Gruppe",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Rolle",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Juni",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% September",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Oktober",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Meter",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Bereich",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Höhe",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Familie",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Bild",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Frankreich",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% April",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Hamburg",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Mal",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Wirtschaft",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Programm",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Dezember",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Juli",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Lage",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Spiel",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% November",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Form",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% AG",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% August",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Hand",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% GmbH",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Film",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Musik",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Kritik",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Mitte",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Verfügung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Buch",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Umsatz",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Kunst",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Euro",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Problem",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Sprecher",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Beginn",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Bürger",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Trainer",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Deutsche",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Februar",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Titel",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Stück",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% FDP",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Wert",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Frankfurter",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Staat",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Bundesregierung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Nacht",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Krieg",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Opfer",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Tod",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Firma",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Werk",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Kirche",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Rahmen",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Paris",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Situation",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Wochenende",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Wasser",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Recht",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Hälfte",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Möglichkeit",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Mehrheit",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Straße",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Sache",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Mutter",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Gericht",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Wahl",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Weise",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Vater",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Bericht",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Wort",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Kopf",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Interesse",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Westen",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Preis",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Blick",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Druck",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Bayern",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Kilometer",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Bedeutung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Chance",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Politiker",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Ansicht",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Stelle",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Bevölkerung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Einsatz",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Rußland",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Internet",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Raum",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Mannschaft",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Ausstellung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Verfahren",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Angebot",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Richtung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Projekt",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Kampf",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Gespräch",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Kreis",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Hamburger",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Schule",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Hauptstadt",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Zusammenarbeit",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Amt",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Schritt",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Region",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Vergleich",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Universität",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Bürgermeister",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Angst",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Sommer",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Sicherheit",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Macht",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Bau",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Folge",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Osten",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Handel",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Aufgabe",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Chef",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% DDR",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Koalition",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Mädchen",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Diskussion",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Gefahr",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Streit",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Vergangenheit",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Spieler",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Beispiel",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Meinung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Publikum",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Auto",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Lösung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Boden",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Sohn",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Produktion",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Ort",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Zusammenhang",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Kind",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Verein",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% London",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Richter",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Italien",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Mittel",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Mensch",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Unterstützung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Bundesrepublik",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Feld",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Bank",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Ausland",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Ministerpräsident",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Vertreter",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Parlament",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% China",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Anteil",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Herr",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Öffentlichkeit",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Abend",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Liebe",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% York",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Industrie",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% WELT",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Vorjahr",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Sicht",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Idee",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Leiter",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Bühne",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Theater",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Gesetz",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Geschäft",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Tochter",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Japan",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Sieg",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% CSU",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Nähe",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Bremen",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Schüler",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Rede",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Funktion",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Zuschauer",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Führung",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Besucher",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Drittel",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Moskau",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Vorsitzende",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Urteil",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Kultur",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Saison",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Konzept",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Roman",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Gewalt",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Köln",
   "matches": ["das"],
-  "candidates": [""die", "der""]
+  "candidates": ["die", "der"]
 },
 {
   "expression": "% Stunde",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Auftrag",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 },
 {
   "expression": "% Börse",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Position",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Luft",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Reihe",
   "matches": ["die"],
-  "candidates": [""der", "das""]
+  "candidates": ["der", "das"]
 },
 {
   "expression": "% Minister",
   "matches": ["der"],
-  "candidates": [""die", "das""]
+  "candidates": ["die", "das"]
 }
 ]
