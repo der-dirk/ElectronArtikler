@@ -5,5 +5,9 @@
   "devDependencies": {
     "angular": "^1.4.4",
     "electron-prebuilt": "^0.30.4"
+  },
+  "dependencies": {
+    "angular-filters": "^1.1.2",
+    "angular-sanitize": "^1.4.4"
   }
 }

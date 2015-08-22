@@ -17,12 +17,8 @@
             </button>
     </div>
     <h2 ng-show="ok">Richtig:
-      <span>{{correctExpression[0]}}</span>
-      <span class="text-success">{{correctExpressionGap}}</span>
-      <span>{{correctExpression[1]}}</span></h2>
+      <span ng-bind-html="correctExpression"></span>
     <h2 ng-hide="ok || !hasResult">Falsch:
-      <span>{{correctExpression[0]}}</span>
-      <span class="text-danger">{{correctExpressionGap}}</span>
-      <span>{{correctExpression[1]}}</span></h2>
+      <span ng-bind-html="correctExpression"></span>
   </body>
 </html>

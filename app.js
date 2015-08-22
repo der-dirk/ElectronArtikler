@@ -1,4 +1,6 @@
 require("angular");
+require("angular-sanitize");
+require("angular-filters");
 
 function appendMatchesToCandidates(/*array by ref*/ expressionEntries)
 {
@@ -12,11 +14,9 @@ function shuffleArray(/*array by ref*/ a)
   for(var j, x, i = a.length; i; j = Math.floor(Math.random() * i), x = a[--i], a[i] = a[j], a[j] = x);
 }
 
-
-
 (function()
 {  
-  var app = angular.module('artikler', []);
+  var app = angular.module('artikler', ['ngSanitize']);
   
   var expressionLength = 0;
   var expressionIndex = 0;
@@ -43,8 +43,10 @@ function shuffleArray(/*array by ref*/ a)
       // Last expression
       $scope.hasResult = true;
       $scope.ok = buttonData[0].indexOf(buttonData[1]) != -1;
-      $scope.correctExpression = $scope.expressionEntry.expression.split("%");
-      $scope.correctExpressionGap = buttonData[1];
+      if ($scope.ok)
+        $scope.correctExpression = $scope.expressionEntry.expression.replace("%", "<span class='text-success'>" + buttonData[1] + "</span>");
+      else
+        $scope.correctExpression = $scope.expressionEntry.expression.replace("%", "<span class='text-danger'>" + buttonData[1] + "</span>");
       
       // Next expression
       expressionIndex = ++expressionIndex % expressionLength;          
