@@ -7,18 +7,16 @@
   </head>
   <body class="container" ng-controller="ExpressionController">
     <div class="row">
-      <h3>
-        {{gapExpression}}
-      </h3>
-            <button class="btn btn-default"
-              ng-repeat="candidate in expressionEntry.candidates"
-              ng-click="clickWord([expressionEntry.matches, candidate])">
-              {{candidate}}
-            </button>
+      <h3 ng-bind="expressionEntry.expression|replace:'___'"></h3>
+      <button class="btn btn-default"
+        ng-repeat="candidate in expressionEntry.candidates"
+        ng-click="clickWord([expressionEntry.matches, candidate])">
+        {{candidate}}
+      </button>
     </div>
-    <h2 ng-show="ok">Richtig:
-      <span ng-bind-html="correctExpression"></span>
-    <h2 ng-hide="ok || !hasResult">Falsch:
-      <span ng-bind-html="correctExpression"></span>
+    <h2 ng-show="ok" ng-bind-html
+      ="'Richtig: ' + lastExpression|replace:wrapInClass('text-success', pickedCandidate)"></h2>
+    <h2 ng-hide="ok || !hasResult" ng-bind-html
+      ="'Falsch: ' + lastExpression|replace:wrapInClass('text-danger', pickedCandidate)"></h2>
   </body>
 </html>

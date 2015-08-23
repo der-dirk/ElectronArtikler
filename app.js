@@ -34,7 +34,6 @@ function shuffleArray(/*array by ref*/ a)
       {
         $scope.expressionEntry = $scope.expressionEntries[0];
         shuffleArray($scope.expressionEntry.candidates);
-        $scope.gapExpression = $scope.expressionEntry.expression.replace("%", "___");
       }
     });
 
@@ -42,19 +41,29 @@ function shuffleArray(/*array by ref*/ a)
     {  
       // Last expression
       $scope.hasResult = true;
-      $scope.ok = buttonData[0].indexOf(buttonData[1]) != -1;
-      if ($scope.ok)
-        $scope.correctExpression = $scope.expressionEntry.expression.replace("%", "<span class='text-success'>" + buttonData[1] + "</span>");
-      else
-        $scope.correctExpression = $scope.expressionEntry.expression.replace("%", "<span class='text-danger'>" + buttonData[1] + "</span>");
+      $scope.pickedCandidate = buttonData[1];
+      $scope.lastExpression = $scope.expressionEntry.expression;
+      $scope.ok = buttonData[0].indexOf($scope.pickedCandidate) != -1;
       
       // Next expression
       expressionIndex = ++expressionIndex % expressionLength;          
       $scope.expressionEntry = $scope.expressionEntries[expressionIndex];
-      shuffleArray($scope.expressionEntry.candidates);
-      $scope.gapExpression = $scope.expressionEntry.expression.replace("%", "___");
+    };
+    
+    $scope.wrapInClass = function wrapInClass(css, text)
+    {
+      return '<span class="' + css + '">' + text + '</span>';
     };
     
   }); // app.controller('ExpressionController', function
 
+  app.filter('replace', function()
+  {
+    return function(expression, replacement)
+    {
+      var replacedExpression;
+      replacedExpression = expression.replace("%", replacement);
+      return replacedExpression;
+    };  
+  }); // app.filter('replace', function
 })();
