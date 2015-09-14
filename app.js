@@ -24,8 +24,9 @@ function shuffleArray(/*array by ref*/ a)
   app.controller('ExpressionController', function($scope, $http)
   {  
     //var remoteFile = 'https://raw.githubusercontent.com/der-dirk/Artikler2/master/expressions.json';
-    var localFile  = 'data/expressions.json'; 
-    $http.get(localFile).success(function(data)
+    var articlelFile  = 'data/article.json';
+    
+    $http.get(articlelFile).success(function(data)
     {  
       $scope.expressionEntries = data;
       appendMatchesToCandidates($scope.expressionEntries);
@@ -41,9 +42,13 @@ function shuffleArray(/*array by ref*/ a)
     {  
       // Last expression
       $scope.hasResult = true;
-      $scope.pickedCandidate = buttonData[1];
+      
+      $scope.matches          = buttonData[0]; 
+      $scope.pickedCandidate  = buttonData[1];
+      $scope.correctCandidate = $scope.matches[0];
+      
       $scope.lastExpression = $scope.expressionEntry.expression;
-      $scope.ok = buttonData[0].indexOf($scope.pickedCandidate) != -1;
+      $scope.ok = $scope.matches.indexOf($scope.pickedCandidate) != -1;
       
       // Next expression
       expressionIndex = ++expressionIndex % expressionLength;          
@@ -59,10 +64,10 @@ function shuffleArray(/*array by ref*/ a)
 
   app.filter('replace', function()
   {
-    return function(expression, replacement)
+    return function(expression, tag, replacement)
     {
       var replacedExpression;
-      replacedExpression = expression.replace("%", replacement);
+      replacedExpression = expression.replace(tag, replacement);
       return replacedExpression;
     };  
   }); // app.filter('replace', function
